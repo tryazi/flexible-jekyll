@@ -1,0 +1,10 @@
+---
+layout: post
+title: "AhaaaaaaaAhaaaaaaa!"
+date: 2019-01-06 13:32:20 +0300
+description: ahaaa    Denemeye devam kardeşim
+img:  # Add image post (optional)
+---
+Yetmezzzzzzzzzzz Denemek yetmez yazmak gerek
+
+Ne kadar zor seninle uğraşmak
